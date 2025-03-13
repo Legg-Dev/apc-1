@@ -5,7 +5,7 @@
 // funçao principal que inicia o programa
 int main() {
 
-    printf("Ola pessoal!\n");
+    printf("Bem-vindo à disciplina de APC I!");
 
     return 0;
 
